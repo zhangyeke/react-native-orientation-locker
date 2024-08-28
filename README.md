@@ -10,6 +10,11 @@ A react-native module that can listen on orientation changing of device, get cur
 * get the current orientation of device
 
 ### ChangeLog
+
+新增了init 和 removeInit 方法 用于初始化Orientation 和 删除Orientation初始化
+
+调用init之后才能继续使用Orientation屏幕旋转的方法
+
 <details>
   <summary>ChangeLog details</summary>
 v1.7.0
