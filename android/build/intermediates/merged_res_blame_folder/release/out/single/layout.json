@@ -1,0 +1,166 @@
+[
+    {
+        "merged": "org.wonday.orientation.react-native-orientation-locker-merged_res-24:/layout/abc_action_mode_bar.xml",
+        "source": "org.wonday.orientation.react-native-orientation-locker-appcompat-1.6.1-14:/layout/abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "org.wonday.orientation.react-native-orientation-locker-merged_res-24:/layout/redbox_item_frame.xml",
+        "source": "org.wonday.orientation.react-native-orientation-locker-jetified-react-android-0.73.7-release-12:/layout/redbox_item_frame.xml"
+    },
+    {
+        "merged": "org.wonday.orientation.react-native-orientation-locker-merged_res-24:/layout/abc_cascading_menu_item_layout.xml",
+        "source": "org.wonday.orientation.react-native-orientation-locker-appcompat-1.6.1-14:/layout/abc_cascading_menu_item_layout.xml"
+    },
+    {
+        "merged": "org.wonday.orientation.react-native-orientation-locker-merged_res-24:/layout/abc_popup_menu_item_layout.xml",
+        "source": "org.wonday.orientation.react-native-orientation-locker-appcompat-1.6.1-14:/layout/abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "org.wonday.orientation.react-native-orientation-locker-merged_res-24:/layout/abc_select_dialog_material.xml",
+        "source": "org.wonday.orientation.react-native-orientation-locker-appcompat-1.6.1-14:/layout/abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "org.wonday.orientation.react-native-orientation-locker-merged_res-24:/layout/fps_view.xml",
+        "source": "org.wonday.orientation.react-native-orientation-locker-jetified-react-android-0.73.7-release-12:/layout/fps_view.xml"
+    },
+    {
+        "merged": "org.wonday.orientation.react-native-orientation-locker-merged_res-24:/layout/abc_tooltip.xml",
+        "source": "org.wonday.orientation.react-native-orientation-locker-appcompat-1.6.1-14:/layout/abc_tooltip.xml"
+    },
+    {
+        "merged": "org.wonday.orientation.react-native-orientation-locker-merged_res-24:/layout/redbox_view.xml",
+        "source": "org.wonday.orientation.react-native-orientation-locker-jetified-react-android-0.73.7-release-12:/layout/redbox_view.xml"
+    },
+    {
+        "merged": "org.wonday.orientation.react-native-orientation-locker-merged_res-24:/layout/notification_template_part_time.xml",
+        "source": "org.wonday.orientation.react-native-orientation-locker-core-1.9.0-2:/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "org.wonday.orientation.react-native-orientation-locker-merged_res-24:/layout/abc_screen_content_include.xml",
+        "source": "org.wonday.orientation.react-native-orientation-locker-appcompat-1.6.1-14:/layout/abc_screen_content_include.xml"
+    },
+    {
+        "merged": "org.wonday.orientation.react-native-orientation-locker-merged_res-24:/layout/autofill_inline_suggestion.xml",
+        "source": "org.wonday.orientation.react-native-orientation-locker-jetified-autofill-1.1.0-4:/layout/autofill_inline_suggestion.xml"
+    },
+    {
+        "merged": "org.wonday.orientation.react-native-orientation-locker-merged_res-24:/layout/abc_popup_menu_header_item_layout.xml",
+        "source": "org.wonday.orientation.react-native-orientation-locker-appcompat-1.6.1-14:/layout/abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "org.wonday.orientation.react-native-orientation-locker-merged_res-24:/layout/abc_expanded_menu_layout.xml",
+        "source": "org.wonday.orientation.react-native-orientation-locker-appcompat-1.6.1-14:/layout/abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "org.wonday.orientation.react-native-orientation-locker-merged_res-24:/layout/abc_list_menu_item_radio.xml",
+        "source": "org.wonday.orientation.react-native-orientation-locker-appcompat-1.6.1-14:/layout/abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "org.wonday.orientation.react-native-orientation-locker-merged_res-24:/layout/abc_action_menu_layout.xml",
+        "source": "org.wonday.orientation.react-native-orientation-locker-appcompat-1.6.1-14:/layout/abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "org.wonday.orientation.react-native-orientation-locker-merged_res-24:/layout/abc_screen_simple_overlay_action_mode.xml",
+        "source": "org.wonday.orientation.react-native-orientation-locker-appcompat-1.6.1-14:/layout/abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "org.wonday.orientation.react-native-orientation-locker-merged_res-24:/layout/abc_search_dropdown_item_icons_2line.xml",
+        "source": "org.wonday.orientation.react-native-orientation-locker-appcompat-1.6.1-14:/layout/abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "org.wonday.orientation.react-native-orientation-locker-merged_res-24:/layout/dev_loading_view.xml",
+        "source": "org.wonday.orientation.react-native-orientation-locker-jetified-react-android-0.73.7-release-12:/layout/dev_loading_view.xml"
+    },
+    {
+        "merged": "org.wonday.orientation.react-native-orientation-locker-merged_res-24:/layout/abc_action_bar_up_container.xml",
+        "source": "org.wonday.orientation.react-native-orientation-locker-appcompat-1.6.1-14:/layout/abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "org.wonday.orientation.react-native-orientation-locker-merged_res-24:/layout/select_dialog_singlechoice_material.xml",
+        "source": "org.wonday.orientation.react-native-orientation-locker-appcompat-1.6.1-14:/layout/select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "org.wonday.orientation.react-native-orientation-locker-merged_res-24:/layout/abc_screen_simple.xml",
+        "source": "org.wonday.orientation.react-native-orientation-locker-appcompat-1.6.1-14:/layout/abc_screen_simple.xml"
+    },
+    {
+        "merged": "org.wonday.orientation.react-native-orientation-locker-merged_res-24:/layout/support_simple_spinner_dropdown_item.xml",
+        "source": "org.wonday.orientation.react-native-orientation-locker-appcompat-1.6.1-14:/layout/support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "org.wonday.orientation.react-native-orientation-locker-merged_res-24:/layout/abc_action_menu_item_layout.xml",
+        "source": "org.wonday.orientation.react-native-orientation-locker-appcompat-1.6.1-14:/layout/abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "org.wonday.orientation.react-native-orientation-locker-merged_res-24:/layout/abc_alert_dialog_title_material.xml",
+        "source": "org.wonday.orientation.react-native-orientation-locker-appcompat-1.6.1-14:/layout/abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "org.wonday.orientation.react-native-orientation-locker-merged_res-24:/layout/abc_activity_chooser_view.xml",
+        "source": "org.wonday.orientation.react-native-orientation-locker-appcompat-1.6.1-14:/layout/abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "org.wonday.orientation.react-native-orientation-locker-merged_res-24:/layout/abc_screen_toolbar.xml",
+        "source": "org.wonday.orientation.react-native-orientation-locker-appcompat-1.6.1-14:/layout/abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "org.wonday.orientation.react-native-orientation-locker-merged_res-24:/layout/select_dialog_item_material.xml",
+        "source": "org.wonday.orientation.react-native-orientation-locker-appcompat-1.6.1-14:/layout/select_dialog_item_material.xml"
+    },
+    {
+        "merged": "org.wonday.orientation.react-native-orientation-locker-merged_res-24:/layout/abc_alert_dialog_material.xml",
+        "source": "org.wonday.orientation.react-native-orientation-locker-appcompat-1.6.1-14:/layout/abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "org.wonday.orientation.react-native-orientation-locker-merged_res-24:/layout/abc_list_menu_item_layout.xml",
+        "source": "org.wonday.orientation.react-native-orientation-locker-appcompat-1.6.1-14:/layout/abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "org.wonday.orientation.react-native-orientation-locker-merged_res-24:/layout/abc_alert_dialog_button_bar_material.xml",
+        "source": "org.wonday.orientation.react-native-orientation-locker-appcompat-1.6.1-14:/layout/abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "org.wonday.orientation.react-native-orientation-locker-merged_res-24:/layout/abc_action_mode_close_item_material.xml",
+        "source": "org.wonday.orientation.react-native-orientation-locker-appcompat-1.6.1-14:/layout/abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "org.wonday.orientation.react-native-orientation-locker-merged_res-24:/layout/abc_list_menu_item_icon.xml",
+        "source": "org.wonday.orientation.react-native-orientation-locker-appcompat-1.6.1-14:/layout/abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "org.wonday.orientation.react-native-orientation-locker-merged_res-24:/layout/abc_dialog_title_material.xml",
+        "source": "org.wonday.orientation.react-native-orientation-locker-appcompat-1.6.1-14:/layout/abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "org.wonday.orientation.react-native-orientation-locker-merged_res-24:/layout/select_dialog_multichoice_material.xml",
+        "source": "org.wonday.orientation.react-native-orientation-locker-appcompat-1.6.1-14:/layout/select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "org.wonday.orientation.react-native-orientation-locker-merged_res-24:/layout/abc_list_menu_item_checkbox.xml",
+        "source": "org.wonday.orientation.react-native-orientation-locker-appcompat-1.6.1-14:/layout/abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "org.wonday.orientation.react-native-orientation-locker-merged_res-24:/layout/abc_search_view.xml",
+        "source": "org.wonday.orientation.react-native-orientation-locker-appcompat-1.6.1-14:/layout/abc_search_view.xml"
+    },
+    {
+        "merged": "org.wonday.orientation.react-native-orientation-locker-merged_res-24:/layout/abc_activity_chooser_view_list_item.xml",
+        "source": "org.wonday.orientation.react-native-orientation-locker-appcompat-1.6.1-14:/layout/abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "org.wonday.orientation.react-native-orientation-locker-merged_res-24:/layout/redbox_item_title.xml",
+        "source": "org.wonday.orientation.react-native-orientation-locker-jetified-react-android-0.73.7-release-12:/layout/redbox_item_title.xml"
+    },
+    {
+        "merged": "org.wonday.orientation.react-native-orientation-locker-merged_res-24:/layout/abc_action_bar_title_item.xml",
+        "source": "org.wonday.orientation.react-native-orientation-locker-appcompat-1.6.1-14:/layout/abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "org.wonday.orientation.react-native-orientation-locker-merged_res-24:/layout/custom_dialog.xml",
+        "source": "org.wonday.orientation.react-native-orientation-locker-core-1.9.0-2:/layout/custom_dialog.xml"
+    },
+    {
+        "merged": "org.wonday.orientation.react-native-orientation-locker-merged_res-24:/layout/notification_template_part_chronometer.xml",
+        "source": "org.wonday.orientation.react-native-orientation-locker-core-1.9.0-2:/layout/notification_template_part_chronometer.xml"
+    }
+]

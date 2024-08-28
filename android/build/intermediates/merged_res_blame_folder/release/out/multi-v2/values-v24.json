@@ -1,0 +1,34 @@
+{
+    "logs": [
+        {
+            "outputFile": "org.wonday.orientation.react-native-orientation-locker-mergeReleaseResources-22:/values-v24/values-v24.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\EDY\\.gradle\\caches\\transforms-3\\b3627ca143232ec2ceb6e319eb18971d\\transformed\\appcompat-1.6.1\\res\\values-v24\\values-v24.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,212",
+                        "endColumns": "156,134",
+                        "endOffsets": "207,342"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "org.wonday.orientation.react-native-orientation-locker-merged_res-24:/values-v24/values-v24.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\EDY\\.gradle\\caches\\transforms-3\\b3627ca143232ec2ceb6e319eb18971d\\transformed\\appcompat-1.6.1\\res\\values-v24\\values-v24.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,212",
+                        "endColumns": "156,134",
+                        "endOffsets": "207,342"
+                    }
+                }
+            ]
+        }
+    ]
+}

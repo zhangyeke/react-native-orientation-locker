@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "org.wonday.orientation.react-native-orientation-locker-merged_res-24:/layout-v21/notification_action_tombstone.xml",
+        "source": "org.wonday.orientation.react-native-orientation-locker-core-1.9.0-2:/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "org.wonday.orientation.react-native-orientation-locker-merged_res-24:/layout-v21/notification_action.xml",
+        "source": "org.wonday.orientation.react-native-orientation-locker-core-1.9.0-2:/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "org.wonday.orientation.react-native-orientation-locker-merged_res-24:/layout-v21/notification_template_custom_big.xml",
+        "source": "org.wonday.orientation.react-native-orientation-locker-core-1.9.0-2:/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "org.wonday.orientation.react-native-orientation-locker-merged_res-24:/layout-v21/notification_template_icon_group.xml",
+        "source": "org.wonday.orientation.react-native-orientation-locker-core-1.9.0-2:/layout-v21/notification_template_icon_group.xml"
+    }
+]
